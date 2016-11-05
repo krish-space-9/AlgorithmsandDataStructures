@@ -1,0 +1,8 @@
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Code\NewStuff\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

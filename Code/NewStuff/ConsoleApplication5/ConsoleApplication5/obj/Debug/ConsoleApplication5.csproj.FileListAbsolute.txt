@@ -1,0 +1,6 @@
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Code\NewStuff\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

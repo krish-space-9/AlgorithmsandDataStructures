@@ -1,0 +1,6 @@
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Code\RandomQuestions\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
